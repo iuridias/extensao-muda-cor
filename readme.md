@@ -1,6 +1,9 @@
-## Extensão Troca Cor do site O Boticário
+## Extensão Troca Cor da NAV do site "O Boticário"
 
 Esse projeto foi criado em cima do desafio do meu mentor no projeto Desenvolve 2022, Robert Fernando Schweppe, o Zas.
+
+O desafio foi:
+- Desenvolver uma Extensão para navegadores Chrome/Firefox que muda a cor de fundo da barra de navegação do site (https://www.boticario.com.br/)
 
 Um projeto muito interessante e desafiante, fui atrás de muito conteúdo para conseguir desenvolver.
 
