@@ -1,0 +1,39 @@
+body {
+  width: 200px;
+  height: 150px;
+  background-color: #656665;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 1.2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+label {
+  color: #FFFFFF;
+  margin-bottom: 5px;
+}
+
+#trocar-cor {
+  margin: 20px;
+  padding: 5px;
+  width: 100px;
+  color: #FFFFFF;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: #FF9705;
+  border-radius: 5px;
+  border: solid 1px #000000;
+}
+
+#trocar-cor:active {
+  background-color: #eeae54;
+}
